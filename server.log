@@ -1,0 +1,18 @@
+[I 04:32:15.406 NotebookApp] Serving notebooks from local directory: /workspace/DreamUnivProject
+[I 04:32:15.406 NotebookApp] 0 active kernels 
+[I 04:32:15.406 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=0dda7e5fb3d0d1ee15866e9ef462517a899622cc33f791b9
+[I 04:32:15.407 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:32:15.407 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:32:15.407 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:80/?token=0dda7e5fb3d0d1ee15866e9ef462517a899622cc33f791b9
+[W 04:32:28.873 NotebookApp] 404 GET /api/kernels/3f923f82-05cf-4bd7-acc2-964bc73a761b/channels?session_id=3EE0DBF762D342388347A2A43B160E7E (172.17.0.1): Kernel does not exist: 3f923f82-05cf-4bd7-acc2-964bc73a761b
+[W 04:32:28.894 NotebookApp] 404 GET /api/kernels/3f923f82-05cf-4bd7-acc2-964bc73a761b/channels?session_id=3EE0DBF762D342388347A2A43B160E7E (172.17.0.1) 124.25ms referer=None
+[W 04:32:34.424 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920043214 (172.17.0.1) 1.34ms referer=http://dnwlstjs7.run.goorm.io/notebooks/HY-Python%200920.ipynb
+[I 04:32:35.275 NotebookApp] Kernel started: db17556b-3d88-4803-bf58-0a4b9b2f27b4
+[I 04:32:37.085 NotebookApp] Adapting to protocol v5.1 for kernel db17556b-3d88-4803-bf58-0a4b9b2f27b4
+[I 04:34:36.664 NotebookApp] Saving file at /HY-Python 0920.ipynb
+[I 04:36:36.662 NotebookApp] Saving file at /HY-Python 0920.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
