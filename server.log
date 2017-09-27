@@ -1,11 +1,11 @@
-[I 06:25:54.081 NotebookApp] Serving notebooks from local directory: /workspace/DreamUnivProject
-[I 06:25:54.081 NotebookApp] 0 active kernels 
-[I 06:25:54.081 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=0cb15a7c32b8860b7334ad0a62e2df21d16262705169cfc7
-[I 06:25:54.081 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 06:25:54.082 NotebookApp] No web browser found: could not locate runnable browser.
-[C 06:25:54.082 NotebookApp] 
+[I 06:28:48.289 NotebookApp] Serving notebooks from local directory: /workspace/DreamUnivProject
+[I 06:28:48.289 NotebookApp] 0 active kernels 
+[I 06:28:48.289 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=b1da262184fb02a8d13eec25933bd39d7e9fd0b361caf5fd
+[I 06:28:48.289 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 06:28:48.290 NotebookApp] No web browser found: could not locate runnable browser.
+[C 06:28:48.290 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://0.0.0.0:80/?token=0cb15a7c32b8860b7334ad0a62e2df21d16262705169cfc7
-[I 06:25:54.964 NotebookApp] 302 GET /?token=0cb15a7c32b8860b7334ad0a62e2df21d16262705169cfc7 (172.17.0.1) 0.50ms
+        http://0.0.0.0:80/?token=b1da262184fb02a8d13eec25933bd39d7e9fd0b361caf5fd
+[I 06:28:49.680 NotebookApp] 302 GET /?token=b1da262184fb02a8d13eec25933bd39d7e9fd0b361caf5fd (172.17.0.1) 0.56ms
